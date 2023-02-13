@@ -20,6 +20,6 @@ My passion in technology grew as I went more into Machine learning and Artificia
 3. Tools: Kubernetes, GIT, PostgreSQL, MySQL, MongoDB 
 4. Platforms: Web, Windows, AWS, MATLAB, IBM Cloud, Docker
 
-[<img src='https://cdn-icons-png.flaticon.com/512/25/25231.png' alt='github' height='40'>](https://github.com/https://github.com/navyajammalamadaka)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/navya-jammalamadaka//)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/NavyaJam829)  
+[<img src='https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png' alt='github' height='40'>](https://github.com/navyajammalamadaka)  [<img src='https://cdn-icons-png.flaticon.com/512/174/174857.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/navya-jammalamadaka//)  [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/2491px-Twitter-logo.svg.png' alt='twitter' height='40'>](https://twitter.com/NavyaJam829)  
  
 
