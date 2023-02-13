@@ -5,7 +5,8 @@
 **About Me:**
 My passion in technology grew as I went more into Machine learning and Artificial intelligence. These technologies help us make imaginative arrangements to transform ourselves and improve things for the better. I enjoy taking on new problems, and my ambition is to work as a Machine Learning Engineer or a Data Scientist in a renowned organization that enables me to utilize my skillset to the fullest and grow professionally in achieving corporate goals.
 
-**Interests:** Data Science, Data Visualization, Machine Learning, Software Engineering, Software Development, Data Analytics, Business Analytics, Business Intelligence, Deep Learning.
+**Interests:** 
+Data Science, Data Visualization, Machine Learning, Software Engineering, Software Development, Data Analytics, Business Analytics, Business Intelligence, Deep Learning.
 
 - 🔭 I’m currently working on 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 Project with AWS Services 
 - 🌱 I’m currently learning Athena, Glue, Redshift, S3, IAM, Lambda, Quicksight 
