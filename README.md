@@ -8,6 +8,7 @@ My passion in technology grew as I went more into Machine learning and Artificia
 **Interests:** 
 Data Science, Data Visualization, Machine Learning, Software Engineering, Software Development, Data Analytics, Business Analytics, Business Intelligence, Deep Learning.
 
+- 💻 Masters Student in Computer Engineering at New York University
 - 🔭 I’m currently working on 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 Project with AWS Services 
 - 🌱 I’m currently learning Athena, Glue, Redshift, S3, IAM, Lambda, Quicksight 
 - 💬 Ask me about ETL, NLP, ML, Tableau 
