@@ -11,7 +11,7 @@ Data Science, Data Visualization, Machine Learning, Software Engineering, Softwa
 - 💻 Masters Student in Computer Engineering at New York University
 - 🔭 I’m currently working on 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐃𝐚𝐭𝐚 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 Project with AWS Services 
 - 🌱 I’m currently learning Athena, Glue, Redshift, S3, IAM, Lambda, Quicksight 
-- 💬 Ask me about ETL, NLP, ML, Tableau 
+- 💬 Ask me about: ETL, NLP, ML, Tableau, Python 
 - 📫 How to reach me: nsj9072@nyu.edu 
 - 😄 Pronouns: She/Her/Hers 
 - ⚡ Fun fact: I'm a Data Nerd! 
