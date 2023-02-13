@@ -17,7 +17,7 @@ Data Science, Data Visualization, Machine Learning, Software Engineering, Softwa
 - ⚡ Fun fact: I'm a Data Nerd! 
 - 
 **Skills:**
-1. Python, Java, C, C++, R, JavaScript, SQL, HTML, CSS , PHP 
+1. Languages: Python, Java, C, C++, R, JavaScript, SQL, HTML, CSS , PHP 
 2. Frameworks: Hadoop, Spark, Dask, Scikit, PyTorch, TensorFlow, Keras, Django, Flask, Tableau, Power BI, ETL  
 3. Tools: Kubernetes, GIT, PostgreSQL, MySQL, MongoDB 
 4. Platforms: Web, Windows, AWS, MATLAB, IBM Cloud, Docker
