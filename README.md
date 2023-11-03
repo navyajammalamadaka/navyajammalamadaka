@@ -1,5 +1,5 @@
 ### Hi there 👋, I am Navya Jammalamadaka!
-#### I am a Data Science Enthusiast!
+
 ![I am a Data Science Enthusiast !](https://miro.medium.com/max/1200/1*7EFHLzf5yuXk0M0eFG1Qfg.jpeg)
 
 **About Me:**
